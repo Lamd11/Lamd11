@@ -1,4 +1,4 @@
-### Hi there 👋, Daniel
+### Daniel Lam
 #### Web Development
 
 I'm Daniel from Canada. I currently go to Western University for Computer Science. I enjoy learning languages and frameworks like React. I enjoy ui, ux, and web design in general
