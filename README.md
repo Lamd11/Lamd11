@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lamd11)](https://github.com/lamd11/github-readme-stats)
+
+
 <!--
 **Lamd11/Lamd11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
