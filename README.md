@@ -3,7 +3,7 @@
 
 I'm Daniel from Canada. I currently go to Western University for Computer Science. I enjoy learning languages and frameworks like React. I enjoy ui, ux, and web design in general
 
-Skills: REACT / / EXPRES.JS / JS / HTML / CSS
+Skills: React / / Express.js / JavaScript / TypeScript / Python / C / HTML / CSS
 
 - 🔭 I’m currently working on my personal website 
 - 🌱 I’m currently learning web frameworks 
